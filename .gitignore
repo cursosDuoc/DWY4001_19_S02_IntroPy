@@ -1,0 +1,6 @@
+# guardar como '.gitignore' dentro de la carpeta del proyecto
+# Este archivo señala que cosas no se van a guardar en el repositorio
+# del proyecto.
+
+# No vamos a guardar los archivo temporales de python
+__pycache__/
